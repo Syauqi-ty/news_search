@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "718856938173",
+    "firebase_url": "https://mataginews-30307.firebaseio.com",
+    "project_id": "mataginews-30307",
+    "storage_bucket": "mataginews-30307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718856938173:android:ef2333d707466974b50dd4",
+        "android_client_info": {
+          "package_name": "com.example.news_search"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718856938173-50ug8s75m0j2oosv6mv1i96mdl733d1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.news_search",
+            "certificate_hash": "a257471b38c934df7fd4021839074209a414f6be"
+          }
+        },
+        {
+          "client_id": "718856938173-s2natrsfca33ekcesduels049aa24ibn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.news_search",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "718856938173-tp0ia4l93t8591dqvol2e4blf4qmgjol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfMYbY2zr1Uz7gZoq6wcl5KBi6b4ZG8Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718856938173-tp0ia4l93t8591dqvol2e4blf4qmgjol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
